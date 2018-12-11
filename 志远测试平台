@@ -1,1 +1,7 @@
-1、
+1、kpi.py是用来画图的。
+  1）一个业务线的所有测试都写在这个地方。这些可能属于不同的测试（不同测试在不同的页面）
+  2）同一个页面不同节的测试，画图在同一个chart_list里面
+  3)git clone git@git.ppdaicorp.com:zhaozhiyuan/rctp-child.git
+
+  
+  
